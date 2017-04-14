@@ -1,5 +1,5 @@
-# print "How old are you"
-age = int(raw_input("How old are you?"))
+print "How old are you"
+age = int(raw_input())
 
 print "What is your name?"
 name = raw_input()
