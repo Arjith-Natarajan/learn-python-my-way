@@ -1,8 +1,9 @@
-print "How old are you"
+print "How old are you?",
 age = int(raw_input())
+print "How tall are you?",
+height = raw_input()
+print "How much do you weigh?",
+weight = raw_input()
 
-print "What is your name?"
-name = raw_input()
-
-print "Your name is ", name ,
-print "You are %d years old" % age
+print "So, you're %d old, %r tall and %r heavy." % (
+    age, height, weight)
