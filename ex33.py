@@ -1,16 +1,20 @@
-i = 0
-numbers = []
+def create_list(numbers,limit):
+    i = 0
 
-while i <= 6:
-    print "At the top i is %d" % i
-    numbers.append(i)
+    while i <= limit:
+        numbers.append(i)
 
-    i = i + 1
-    print "Numbers now: ", numbers
-    print "At the bottom i is %d" % i
+        i = i + 3
+        # print "Numbers now: ", numbers
+        # print "At the bottom i is %d" % i
 
+    print "The numbers: ",
 
-print "The numbers: "
+    for num in numbers:
+        print num,
 
-for num in numbers:
-    print num
+elements = []
+create_list(elements,4)
+
+another_elements=[]
+create_list(another_elements, 20)
