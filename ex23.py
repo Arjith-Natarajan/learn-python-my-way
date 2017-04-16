@@ -1,4 +1,4 @@
-print ('Simple Exercise')
+# print ('Simple Exercise')
 
 # Script Name		: check_file.py
 # Author		: Craig Richards
