@@ -1,6 +1,0 @@
-Hello there,! This is 1st line
-Some content in second line as well
-Oh you have more on third line?
-And some more here as well
-This seems like a pretty big file
-Isn't it?
