@@ -1,0 +1,13 @@
+Linking Verbs
+be	     She is a teacher. She is happy.
+appear	 She appears tired.
+become 	 She became a teacher. She became ill.
+feel	   I feel tired.
+grow	   He grew sleepy.
+look	   They look pleased.
+prove	   The plan proved a disaster. The plan proved tiring.
+remain	 They remain tired.
+seem	   He seems young.
+smell	   The soup smells great.
+sound	   The students sound happy.
+taste	   The coffee tasted bitter.
