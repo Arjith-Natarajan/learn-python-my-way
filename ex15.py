@@ -4,7 +4,7 @@ from sys import argv
 
 script, file_name = argv
 
- # Creating File Object.
+# Creating File Object.
 txt = open(file_name)
 
 print "You are reading from %s file." % file_name

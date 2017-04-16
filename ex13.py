@@ -14,4 +14,4 @@ print "Your third variable : ", third
 
 fourth = int(raw_input('How many more variables ?'))
 
-print "You have remaining ", fourth ,"variables"
+print "You have remaining ", fourth, "variables"

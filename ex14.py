@@ -2,7 +2,7 @@
 
 from sys import argv
 
-script, user_name, nick_name  = argv
+script, user_name, nick_name = argv
 prompt = '\n^_^ ->'          # Changed prompt
 
 print "Hi %s, I'm the %s script." % (user_name, script)
@@ -17,7 +17,7 @@ print "Where do you live %s?" % user_name
 lives = raw_input(prompt)
 
 print "What kind of computer do you have?"
-computer =  raw_input(prompt)
+computer = raw_input(prompt)
 
 print """
 Alright, so you said %r about liking me.

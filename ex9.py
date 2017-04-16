@@ -1,4 +1,4 @@
-#Exercise 9 : Printing, Printing, Printing
+# Exercise 9 : Printing, Printing, Printing
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"

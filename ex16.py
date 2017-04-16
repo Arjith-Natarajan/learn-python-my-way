@@ -11,7 +11,7 @@ print "Else press enter to continue with the operation"
 raw_input('?')
 
 print "Opening the file..."
-target = open(filename,'w')
+target = open(filename, 'w')
 
 print "Truncating the file. Goodbye!"
 target.truncate()
@@ -25,7 +25,7 @@ line3 = raw_input("line 3 : ")
 print "Writing them into the file..."
 
 # Writing in single line without repetition
-target.write(line1+'\n'+line2+'\n'+line3+'\n')
+target.write(line1 + '\n' + line2 + '\n' + line3 + '\n')
 
 print "And finally we close it."
 target.close()

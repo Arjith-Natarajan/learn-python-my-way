@@ -14,6 +14,6 @@ print "Does the output file really exists?  %r" % exists(to_file)
 print "Ready , hit RETURN to continue, CTRL-C to abort"
 raw_input()
 
-open(to_file,'w').write(in_data)
+open(to_file, 'w').write(in_data)
 
 print "Wrapping up and closing"

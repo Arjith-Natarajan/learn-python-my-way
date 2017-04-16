@@ -1,4 +1,4 @@
-#Exercise 10: What was That?
+# Exercise 10: What was That?
 # Escape Sequences
 
 tabby_cat = "\tI'm tabbed in."
@@ -18,5 +18,5 @@ print backlash_cat
 print fat_cat
 
 while True:
-    for i in ["-","\\",'|',"/","-"]:
+    for i in ["-", "\\", '|', "/", "-"]:
         print "%s\r" % i,
